@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "jw03-maruNo1\\lib\\commons-io-2.11.0.jar"
+        ],
+        "exclude": [
+            "jw03-maruNo1/lib/commons-io-2.11.0.jar"
+        ]
+    },
+    "java.project.sourcePaths": [
+        "jw03-maruNo1",
+        "jw04"
+    ]
+}
